@@ -1,2 +1,2 @@
 # firstgolang
-Learning go language 
+Learning go language with some simple steps. 
